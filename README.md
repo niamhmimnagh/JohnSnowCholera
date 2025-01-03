@@ -30,7 +30,8 @@ If you use this georeferenced data in your work, please provide appropriate cred
 
 Mimnagh, Niamh. "John Snow's 1854 Cholera Map: Georeferenced Data." GitHub repository, 2024. [https://github.com/niamhmimnagh/JohnSnowCholera]
 
-Alternatively, in BibTeX format for academic use:
+Alternatively, in BibTeX format:
+
 
 ```
 @misc{Mimnagh2024,
